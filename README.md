@@ -1,14 +1,13 @@
 # 🌍 Travelgram
 
-Um diário digital de viagens desenvolvido em **HTML, CSS e JavaScript**, que permite registrar destinos, compartilhar fotos e visualizar detalhes de cada experiência.
+Um diário digital de viagens desenvolvido em **HTML e CSS**, que permite visualizar destinos, fotos e etalhes de cada experiência.
 
 ---
 
 ## ✈️ Funcionalidades
 
 - 📍 Lista de destinos com nome, imagem e breve descrição  
-- 🗺️ Página de detalhes de cada viagem, incluindo histórico, pontos turísticos e dicas  
-- 🔎 Busca por destinos para encontrar viagens rapidamente  
+- 🗺️ Página de detalhes de cada viagem, incluindo histórico, pontos turísticos e dicas   
 - 📱 Layout responsivo (desktop e mobile)  
 
 ---
