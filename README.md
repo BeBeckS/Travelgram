@@ -29,4 +29,5 @@ Basta ter um **navegador moderno** instalado.
 
 2. Visite o site:
 3. 
-   ```bash https://bebecks.github.io/web/
+   ```bash
+   https://bebecks.github.io/web/
